@@ -4,3 +4,4 @@ This is awesome website!
 - This is mainly demo use.
 - It represent git practice.
 
+This site was built using [GitHub Pages](https://pages.github.com/).
